@@ -25,5 +25,3 @@ Five-stage ETL pipeline joining six mismatched source datasets into a single
 
 ---
 
-English · Turkish · German (C1)
-Berlin · boramarasli@proton.me
