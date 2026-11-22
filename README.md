@@ -8,7 +8,7 @@ Looking for a U.S.-based internship. [LinkedIn](https://www.linkedin.com/in/bora
 
 **Projects**
 
-**Oct 2023 – present** · [Piano Fingering Suggester](https://github.com/boramarasli/piano-fingering-suggester)
+**Oct 2023 – present** · [Fingerpath](https://github.com/boramarasli/fingerpath)
 Most free sheet music has no fingering. Every hand movement gets a cost (stretches, thumb on black keys, crossings), and dynamic programming finds the lowest-cost fingering. Python.
 
 **Aug – Sep 2025** · [Supplier Quality & Delivery Dashboard](https://github.com/boramarasli/supplier-quality-dashboard)
