@@ -1,8 +1,8 @@
 ### Bora Marasli
 
-B.Sc. student in Information Technology in Mechanical Engineering at TU Berlin (expected 2028), with advanced coursework in machine learning and hands-on experience in Python, data analytics and applied AI.
+B.Sc. student in Information Technology in Mechanical Engineering at TU Berlin (expected 2028), with advanced coursework in machine learning and data analytics.
 
-Looking for a U.S.-based internship. [LinkedIn](https://www.linkedin.com/in/boramarasli)
+Looking for an internship in the U.S. to work with data from physical systems. Build and check data pipelines with AI tools and deliver clean, validated data ready for analysis. [LinkedIn](https://www.linkedin.com/in/boramarasli)
 
 ---
 
@@ -21,4 +21,4 @@ Phone ordering from each umbrella of a Greek beach club: allergy check, minimum-
 
 - [Machine-failure prediction](https://github.com/boramarasli/machine-failure-prediction) · Python, scikit-learn
 - [Card battle game](https://github.com/boramarasli/card-battle-game) (2025) · Python
-- [Maze game](https://github.com/boramarasli/maze-game) (2024) · Python, group project
+- [Maze game](https://github.com/boramarasli/maze-game) (2024) · Python, team of three
